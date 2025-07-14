@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Immanuel J</h1>
+<h1 align="center">Hi 👋, I'm Prince Immanuel </h1>
 <h3 align="center">🛡️ Ethical Hacker | 🧠 Cybersecurity Analyst | 🥷 Top 4% on TryHackMe</h3>
 
 <p align="center">
