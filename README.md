@@ -2,7 +2,7 @@
 <h3 align="center">🛡️ Ethical Hacker | 🧠 Cybersecurity Analyst | 🥷 Top 4% on TryHackMe</h3>
 
 <p align="center">
-  <a href="https://princeimmanuel.netlify.app/" target="_blank">
+  <a href="https://cyberwithprince.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=netlify" alt="portfolio"/>
   </a>
   <a href="https://tryhackme.com/r/p/0xPr1nce" target="_blank">
@@ -22,7 +22,7 @@
 - 💻 Passionate Ethical Hacker with experience in **Web & Network Pentesting**
 - 🚨 Skilled in **OWASP Top 10**, **SQLi**, **XSS**, **File Inclusion**, **IDOR**, and **Privilege Escalation**
 - ⚙️ Expert with **Burp Suite**, **Nmap**, **Nessus**, **OpenVAS**, **Wireshark**
-- 🌐 Visit my [Portfolio Website](https://princeimmanuel.netlify.app) for full details and live demos
+- 🌐 Visit my [Portfolio Website](https://cyberwith.netlify.app) for full details and live demos
 
 ---
 
@@ -75,7 +75,7 @@
   <a href="https://www.linkedin.com/in/princeimmanue/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://tryhackme.com/r/p/0xPr1nce"><img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"></a>
   <a href="https://github.com/0xPr1nce"><img src="https://img.shields.io/badge/GitHub-0xPr1nce-black?style=for-the-badge&logo=github"></a>
-  <a href="https://princeimmanuel.netlify.app/"><img src="https://img.shields.io/badge/Website-Portfolio-brightgreen?style=for-the-badge&logo=netlify"></a>
+  <a href="https://cyberwithprince.netlify.app/"><img src="https://img.shields.io/badge/Website-Portfolio-brightgreen?style=for-the-badge&logo=netlify"></a>
 </p>
 
 ---
